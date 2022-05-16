@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/problema-lec-esc/static/css/main.a2d1128f.css",
+    "main.js": "/problema-lec-esc/static/js/main.9f701b3d.js",
+    "static/js/787.04fe38ab.chunk.js": "/problema-lec-esc/static/js/787.04fe38ab.chunk.js",
+    "static/media/Database.png": "/problema-lec-esc/static/media/Database.9ed311d254b7e4637eef.png",
+    "index.html": "/problema-lec-esc/index.html",
+    "main.a2d1128f.css.map": "/problema-lec-esc/static/css/main.a2d1128f.css.map",
+    "main.9f701b3d.js.map": "/problema-lec-esc/static/js/main.9f701b3d.js.map",
+    "787.04fe38ab.chunk.js.map": "/problema-lec-esc/static/js/787.04fe38ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d1128f.css",
+    "static/js/main.9f701b3d.js"
+  ]
+}
